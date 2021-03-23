@@ -1,3 +1,3 @@
-# shecodes
+# Pluto Academy
 
-[https://shecodes.io/](https://shecodes.io/)
+[https://plutoacademy.io/](https://plutoacademy.io/)
